@@ -8,6 +8,7 @@ def metodos_conta():
         conta["saldo"] += valor
 
     def saque(conta, valor):
+
         if(conta["saldo"]< valor):
             print("Saldo menor que o valor de saque")
             print("Saldo atual {}".format(conta["saldo"]))
