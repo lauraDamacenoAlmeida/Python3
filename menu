@@ -1,0 +1,13 @@
+import forca
+import adivinhacao
+
+print("*******annyeonghaseyo************")
+escolha = int(input('Escolha um jogo \n 1-adivinhacao \n 2-forca \n'))
+
+print("**************************************")
+
+if(escolha == 1):
+    adivinhacao.jogar()
+
+if(escolha == 2):
+    forca.jogar()
