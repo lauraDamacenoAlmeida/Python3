@@ -17,14 +17,13 @@ class Programa:
 
     def dar_like(self):
         self.__likes += 1
-
+#Como é herança, pssamos o nome da classe mae como parametro na criacao de outra classe
+#para acessar atributos e metodos da classe mae, precisamos usar o algoritmo "super()"
 class Filme(Programa):
 
     def __init__(self, nome, ano, duracao):
-        self._nome = nome
-        self._ano = ano
+        super().__init__(nome, ano)
         self.__duracao = duracao
-        self._likes = 0
 
     @property
     def duracao(self):
@@ -32,14 +31,14 @@ class Filme(Programa):
 
 class Serie(Programa):
     def __init__(self, nome, ano, temporadas):
-        self._nome = nome
-        self._ano = ano
+        super().__init__(nome, ano)
         self.__temporadas = temporadas
-        self._likes = 0
 
     @property
     def temporadas(self):
         return self.__temporadas
+
+    filmes_e_series = ['Got',]
 
 
 
