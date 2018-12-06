@@ -53,10 +53,34 @@ class Serie(Programa):
 #como a minha playlist nao é iterable, para facilitar o seu manuseio fazemos com que ela herde da classe List,
 # onde ela terá todos os componentes de uma lista. Pegamos o metodo __init__ e passamos como parametro a lista que receberemos
 
-class Playlist(list):
+#class Playlist(list):
+#   def __init__(self, nome, programas):
+#        self.nome = nome
+#        super().__init__(programas)
+
+# Por nao conhecermos bem a classe List- built-in(embutida no Python), nao à usaremos agora
+
+class Playlist:
     def __init__(self, nome, programas):
         self.nome = nome
-        super().__init__(programas)
+        self._programas = programas
+
+    @property
+    def listagem(self):
+        return self._programas
+
+    def __getitem__(self, item):
+        return self._programas[item]
+
+    @property
+    def __len__(self):
+        return len(self._programas)
+
+
+
+
+
+
 
 
 
