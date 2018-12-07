@@ -9,7 +9,7 @@ def jogar():
     #simplificacao de
     #          for i in palavra_secreta:
     #               letras_acertadas.append('_')
-
+    print("É uma fruta....")
     letras_acertadas = ['_' for i in palavra_secreta]
     acertou = False
     enforcou = False

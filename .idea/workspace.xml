@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9124e41-6562-47de-b6f9-7ae61b5235be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/OrientacaoObjeto/Avancado/heranca.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrientacaoObjeto/Avancado/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/OrientacaoObjeto/Avancado/model.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,28 +14,30 @@
     <session id="2141075476">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.5" value="4" />
           <entry key="project.open.time.6" value="2" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="json" value="1" />
           <entry key="log" value="1" />
           <entry key="menu" value="1" />
-          <entry key="py" value="13" />
-          <entry key="txt" value="1" />
+          <entry key="py" value="15" />
+          <entry key="txt" value="2" />
           <entry key="uat-reset" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="15" />
+          <entry key="JSON" value="1" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Python" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -45,29 +45,20 @@
           <entry key="Python Console" value="1228" />
           <entry key="dummy" value="5" />
           <entry key="menu" value="318" />
-          <entry key="py" value="10397" />
+          <entry key="py" value="10398" />
           <entry key="txt" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="38" />
-          <entry key="Python" value="11943" />
+          <entry key="Python" value="11944" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/teste.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/OrientacaoObjeto/conta.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -95,35 +86,43 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/forca.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="419">
+              <caret line="57" column="8" lean-forward="true" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/teste.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/OrientacaoObjeto/Avancado/model.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="74" column="13" lean-forward="true" selection-start-line="74" selection-start-column="13" selection-end-line="74" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/OrientacaoObjeto/Avancado/heranca.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-              <folding>
-                <marker date="1544116294985" expanded="true" signature="359:390" ph="..." />
-                <marker date="1544116294985" expanded="true" signature="985:1039" ph="..." />
-                <marker date="1544116294985" expanded="true" signature="1115:1618" ph="..." />
-                <marker date="1544116294985" expanded="true" signature="1162:1172" ph="..." />
-              </folding>
+            <state relative-caret-position="1258">
+              <caret line="74" column="13" selection-start-line="74" selection-start-column="13" selection-end-line="74" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Desktop/Uat-FechamentoTicketsTDS/routes.py">
+        <entry file="file://$PROJECT_DIR$/OrientacaoObjeto/Avancado/heranca.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="510">
+              <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+              <folding>
+                <marker date="1544116390106" expanded="true" signature="359:390" ph="..." />
+                <marker date="1544116390106" expanded="true" signature="985:1040" ph="..." />
+                <marker date="1544116390106" expanded="true" signature="1163:1173" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -148,15 +147,6 @@
               <folding>
                 <marker date="1543581608077" expanded="true" signature="75:80" ph="..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Downloads/uat-reset">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
             </state>
           </provider>
         </entry>
@@ -198,6 +188,7 @@
         <option value="$USER_HOME$/Desktop/Uat-FechamentoTicketsTDS/routes.py" />
         <option value="$PROJECT_DIR$/OrientacaoObjeto/Avancado/model.py" />
         <option value="$PROJECT_DIR$/OrientacaoObjeto/Avancado/heranca.py" />
+        <option value="$PROJECT_DIR$/OrientacaoObjeto/teste2.py" />
       </list>
     </option>
   </component>
@@ -225,12 +216,6 @@
               <item name="aula" type="462c0819:PsiDirectoryNode" />
               <item name="OrientacaoObjeto" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="aula" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aula" type="462c0819:PsiDirectoryNode" />
-              <item name="OrientacaoObjeto" type="462c0819:PsiDirectoryNode" />
-              <item name="Avancado" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -253,7 +238,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.heranca">
+  <component name="RunManager" selected="Python.forca">
     <configuration name="conta" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="aula" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -338,7 +323,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="teste" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="teste2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="aula" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -350,7 +335,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OrientacaoObjeto/teste.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OrientacaoObjeto/teste2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -360,19 +345,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.forca" />
-      <item itemvalue="Python.teste" />
       <item itemvalue="Python.conta" />
       <item itemvalue="Python.routes" />
       <item itemvalue="Python.heranca" />
+      <item itemvalue="Python.teste2" />
+      <item itemvalue="Python.forca" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.forca" />
+        <item itemvalue="Python.teste2" />
         <item itemvalue="Python.heranca" />
         <item itemvalue="Python.routes" />
         <item itemvalue="Python.conta" />
-        <item itemvalue="Python.teste" />
-        <item itemvalue="Python.forca" />
       </list>
     </recent_temporary>
   </component>
@@ -402,12 +387,12 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49934897" visible="true" weight="0.3177305" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49934897" weight="0.9035461" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997253" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -432,9 +417,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/forca.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/adivinhacao.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1156">
@@ -445,13 +427,24 @@
     <entry file="file://$USER_HOME$/Desktop/Uat-FechamentoTicketsTDS/geckodriver.log">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/teste.txt">
+    <entry file="file://$USER_HOME$/Desktop/Uat-FechamentoTicketsTDS/routes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        <state relative-caret-position="204">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/venv/pip-selfcheck.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/uat-reset">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OrientacaoObjeto/teste2.py" />
     <entry file="file://$PROJECT_DIR$/OrientacaoObjeto/conta.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="833">
@@ -475,10 +468,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/Uat-FechamentoTicketsTDS/routes.py">
+    <entry file="file://$PROJECT_DIR$/OrientacaoObjeto/Avancado/model.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="1258">
+          <caret line="74" column="13" selection-start-line="74" selection-start-column="13" selection-end-line="74" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OrientacaoObjeto/Avancado/heranca.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+          <folding>
+            <marker date="1544116390106" expanded="true" signature="359:390" ph="..." />
+            <marker date="1544116390106" expanded="true" signature="985:1040" ph="..." />
+            <marker date="1544116390106" expanded="true" signature="1163:1173" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -502,13 +507,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/uat-reset">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/menu">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -516,23 +514,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OrientacaoObjeto/Avancado/model.py">
+    <entry file="file://$PROJECT_DIR$/teste.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="74" column="13" lean-forward="true" selection-start-line="74" selection-start-column="13" selection-end-line="74" selection-end-column="13" />
+        <state relative-caret-position="85">
+          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OrientacaoObjeto/Avancado/heranca.py">
+    <entry file="file://$PROJECT_DIR$/forca.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-          <folding>
-            <marker date="1544116294985" expanded="true" signature="359:390" ph="..." />
-            <marker date="1544116294985" expanded="true" signature="985:1039" ph="..." />
-            <marker date="1544116294985" expanded="true" signature="1115:1618" ph="..." />
-            <marker date="1544116294985" expanded="true" signature="1162:1172" ph="..." />
-          </folding>
+        <state relative-caret-position="419">
+          <caret line="57" column="8" lean-forward="true" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="8" />
         </state>
       </provider>
     </entry>
